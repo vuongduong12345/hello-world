@@ -1,14 +1,14 @@
 <template>
     <div>
-        <h1>lay data tu props</h1>
-        <h1>{{title}}</h1>
+         <!-- <h1>{{title}}</h1> -->
         <h1>{{demo}}</h1>
         <h1>{{demo2}}</h1>
+       
     </div>
 </template>
 <script>
 export default {
-    name: "haha",
+    name: "Test2",
     props: {
         title: String
     },

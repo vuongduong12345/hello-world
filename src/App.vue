@@ -2,9 +2,7 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Your Vue.js App"/>
-    <Test2 title="day la dung drops"/>
-    <Test2 demo="data1234"/>
-    <Test2 demo2="data5678"/>
+    <Test2 title="a123456"/>
   </div>
 </template>
 
