@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- <h1>{{hihi}}</h1> -->
+    <h1>{{hihi}}</h1>
     <h1>{{ haha }}</h1>
     <button @click="haha = 'Đa click thay doi'">Update Event</button>
     <button @click="destroyEvent">Destroy Event</button>
