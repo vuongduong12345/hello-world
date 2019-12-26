@@ -14,8 +14,8 @@ export default {
     },
     data() {
         return {
-            demo: "xin chao",
-            demo2: "xin chao 2"
+            demo: "cấu trúc components là gì?",
+            demo2: "cấu trúc components là gì 2?"
         }
     }
 }
